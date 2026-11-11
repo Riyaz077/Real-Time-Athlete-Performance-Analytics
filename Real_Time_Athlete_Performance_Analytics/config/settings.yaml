@@ -1,0 +1,13 @@
+project:
+  name: "Real-Time Athlete Performance Analytics and Anomaly Detection"
+  random_state: 42
+data:
+  demo_path: "data/generated/athlete_sensor_demo.csv"
+  output_dir: "results"
+model:
+  contamination: 0.03
+  test_size: 0.2
+alerts:
+  high_heart_rate_bpm: 190
+  low_speed_mps: 0.5
+  high_acceleration_mps2: 12
