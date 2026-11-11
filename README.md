@@ -113,4 +113,4 @@ This is an educational analytics prototype, not a clinical or athlete-safety sys
 
 Mohamed Riyaz S. | VIT Chennai
 
-Add your professional LinkedIn and GitHub profile URLs before publishing.
+
